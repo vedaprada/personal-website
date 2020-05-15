@@ -38,21 +38,6 @@ h3 {
   position: relative;
 }
 
-.top-cloud {
-  height: 100px;
-  position: absolute;
-  right: 210px;
-  top: 20px;
-}
-
-.bottom-cloud {
-  height: 100px;
-  position: absolute;
-  left: 225px;
-  top: 250px;
-}
-
-
 .dp {
   height: 200px;
 }
@@ -93,7 +78,7 @@ hr {
 
 .contact-me-description {
   width: 50%;
-  margin: 40px auto 60px;
+  margin: 40px auto 80px;
 }
 
 .bottom-container {
