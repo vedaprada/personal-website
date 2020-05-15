@@ -12,9 +12,9 @@ p {
 
 h1 {
   margin: 0;
-  font-family: 'Sacramento', cursive;
-  color: #679b9b;
-  font-size: 90px;
+  font-family: 'Great Vibes', cursive;
+  color: #71c9ce;
+  font-size: 100px;
 }
 
 h2 {
@@ -34,7 +34,7 @@ h3 {
 
 .top-container {
   background-color: #beebe9;
-  padding-top: 100px;
+  padding-top: 140px;
   position: relative;
 }
 
