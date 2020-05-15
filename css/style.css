@@ -41,15 +41,15 @@ h3 {
 .top-cloud {
   height: 100px;
   position: absolute;
-  right: 250px;
+  right: 210px;
   top: 20px;
 }
 
 .bottom-cloud {
   height: 100px;
   position: absolute;
-  left: 235px;
-  top: 240px;
+  left: 225px;
+  top: 250px;
 }
 
 
