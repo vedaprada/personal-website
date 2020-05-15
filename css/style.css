@@ -79,6 +79,7 @@ hr {
 .contact-me-description {
   width: 50%;
   margin: 40px auto 80px;
+  line-height: 2;
 }
 
 .bottom-container {
